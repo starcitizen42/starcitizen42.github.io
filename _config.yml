@@ -1,14 +1,23 @@
-title: Your awesome title
+title: Starcitizen.today
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: kal
+  email:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Welcome to our Star Citizen hub,
+  where you'll find ship reviews,
+  captivating trivia, and timely updates
+  on in-game events. Explore a diverse array
+  of starships, uncover fascinating details,
+  and join the vibrant community in shaping
+  the destiny of this immersive universe.
+  Embark on an epic journey of discovery
+  as we navigate the ever-evolving expanse
+  of Star Citizen together.
+  and as always, remember to avoid elevators!
+
 
 # Build settings
 
@@ -21,6 +30,7 @@ plugins:
 # Theme-specific settings
 
 minima:
+  skin: dark
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
