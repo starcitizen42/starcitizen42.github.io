@@ -4,7 +4,6 @@ title: Helpful Links
 permalink: /helpfullinks/
 ---
 
-
 - [Status - Roberts Space Industries](https://status.robertsspaceindustries.com/): Stay updated with the latest status updates and maintenance information from Roberts Space Industries, ensuring you're always informed about the current state of the Star Citizen universe.
 
 - [Star Citizen Tools](https://starcitizen.tools/): The bespoke Star Citizen and Squadron 42 wiki that punches above its weight class since 2016.
@@ -25,7 +24,7 @@ permalink: /helpfullinks/
 
 - [Odyssey Interstellar](https://www.odysseyinterstellar.org/): An economic and industrial expansionist corporation in Star Citizen. We have highly active interests in mining, trading, industry, exploration, research, and infrastructure.  In short, commerce is our goal.  They have some nice information on thier site! I recommend the following app!
 
-    - [Odyssey Interstellar - Odyssey](https://www.odysseyinterstellar.org/odyssey/planets): This is a great app for finding wreaks and other points of interest on planets and moons.
+    - [Odyssey App](https://www.odysseyinterstellar.org/odyssey/planets): This is a great app for finding wreaks and other points of interest on planets and moons.
 
 - [Hangar Link](https://hangar.link/): A good website and browser extension to help manage your fleet and see what ships you have in your web hanger if you have a spending problem.
 
