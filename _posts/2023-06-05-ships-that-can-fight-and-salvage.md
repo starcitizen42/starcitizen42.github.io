@@ -1,6 +1,6 @@
 ---
 layout: post
-published: fasle
+published: true
 ---
 
 Thanks for checking my site out!  I was thinking that with the way salvage is working in game, ships with easy to access cargo, a second entrance so you can pack that cargo full of Kraken summoning piles of weapons, and soon ships that have a tractor beam like the Cutty Black.  These ships will be of greater use with the current meta imho.
