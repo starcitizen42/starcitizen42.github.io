@@ -19,6 +19,8 @@ description: >
   of Star Citizen together.
   and as always, remember to avoid elevators!
 
+disqus:
+    shortname: starcitizen-today.disqus.com
 
 # Build settings
 
