@@ -20,7 +20,7 @@ description: >
   and as always, remember to avoid elevators!
 
 disqus:
-    shortname: starcitizen-today.disqus.com
+    shortname: starcitizen-today
     PAGE_URL: https://starcitizen.today/
 
 
