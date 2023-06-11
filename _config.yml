@@ -21,7 +21,6 @@ description: >
 
 disqus:
     shortname: starcitizen-today
-    PAGE_URL: https://starcitizen.today/
 
 
 # Build settings
