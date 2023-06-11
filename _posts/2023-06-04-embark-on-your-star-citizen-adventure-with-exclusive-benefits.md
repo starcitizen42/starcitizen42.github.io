@@ -2,6 +2,7 @@
 layout: post
 title: "Embark on Your Star Citizen Adventure with Exclusive Benefits!"
 categories: [Gaming, Star Citizen]
+comments: false
 ---
 
 Are you ready to dive into the captivating world of Star Citizen? Sign up for an account using our referral code and unlock incredible advantages that will accelerate your journey to greatness.
