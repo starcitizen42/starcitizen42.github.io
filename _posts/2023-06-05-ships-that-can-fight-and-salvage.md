@@ -1,8 +1,17 @@
 ---
 layout: post
-published: true
-comments: true
+title: "Ships That Can Fight And Salvage"
+description: "A comprehensive guide to ships in Star Citizen that excel in both combat and salvage operations. Explore the unique features and capabilities of each ship and discover the best fit for your space adventures."
+catagories: [ship overviews, musings, guides, salvage]
+tags: [Star Citizen, Ships, Guide, Fighting, Salvaging]
+image: "/assets/img/blogfluf/vulture-vulturing.jpg"
+canonical_url: https://starcitizen.today/2023/06/05/ships-that-can-fight-and-salvage.html
+author: "Kal"
+og:image: "/assets/img/blogfluf/vulture-vulturing.jpg"
+twitter:card: "summary_large_image"
 ---
+
+![A vulture doing crazy vulture stuff](/assets/img/blogfluf/vulture-vulturing.jpg)
 
 Thanks for checking my site out!  I was thinking that with the way salvage is working in game, ships with easy to access cargo, a second entrance so you can pack that cargo full of Kraken summoning piles of weapons, and soon ships that have a tractor beam like the Cutty Black.  These ships will be of greater use with the current meta imho.
 
