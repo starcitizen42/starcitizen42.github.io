@@ -5,7 +5,7 @@ description: "Speculation about potential new ship releases for Star Citizen's A
 categories: [musings]
 tags: [Star Citizen, Alien Week 2953, Banu Triptaker, speculation, ships]
 image: /assets/img/blogfluf/banu-concepts2.jpg
-canonical_url: https://starcitizen.today/2023/06/11/The-Triptaker-An-Intriguing-Possibility-for-Star-Citizen's-Alien-Week-2953.html
+canonical_url: https://starcitizen.today/musings/2023/06/11/the-triptaker-an-intriguing-possibility-for-star-citizens-alien-week-2953.html
 author: "Kal"
 og:image: /assets/img/blogfluf/banu-concepts2.jpg
 twitter:card: "summary_large_image"

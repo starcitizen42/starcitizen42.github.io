@@ -5,7 +5,7 @@ description: "A comprehensive guide to ships in Star Citizen that excel in both 
 categories: [musings]
 tags: [Star Citizen, Ships, Guide, Fighting, Salvaging]
 image: "/assets/img/blogfluf/vulture-vulturing.jpg"
-canonical_url: https://starcitizen.today/2023/06/05/ships-that-can-fight-and-salvage.html
+canonical_url: https://starcitizen.today/musings/2023/06/05/ships-that-can-fight-and-salvage.html
 author: "Kal"
 og:image: "/assets/img/blogfluf/vulture-vulturing.jpg"
 twitter:card: "summary_large_image"
