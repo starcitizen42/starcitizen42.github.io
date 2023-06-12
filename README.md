@@ -1,3 +1,8 @@
+Hello, this is a website mased on Jekyll and Minima theme. I am using AI to help me make it.  Please leave any comments or suggestions in the issues section.  Thank you for visiting.
+
+
+
+
 <div align="center">
   <p><em><strong>Disclaimer:</strong> The information here may vary depending on the version you're using.<br/>
   Please refer to the <code>README.md</code> bundled within the theme-gem for information specific to your version or by pointing
