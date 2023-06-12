@@ -2,7 +2,7 @@
 layout: post
 title: "Ships That Can Fight And Salvage"
 description: "A comprehensive guide to ships in Star Citizen that excel in both combat and salvage operations. Explore the unique features and capabilities of each ship and discover the best fit for your space adventures."
-catagories: [ship overviews, musings, guides, salvage]
+categories: [musings]
 tags: [Star Citizen, Ships, Guide, Fighting, Salvaging]
 image: "/assets/img/blogfluf/vulture-vulturing.jpg"
 canonical_url: https://starcitizen.today/2023/06/05/ships-that-can-fight-and-salvage.html

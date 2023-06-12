@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Embark on Your Star Citizen Adventure with Exclusive Benefits!"
-categories: [Gaming, Star Citizen]
+categories: [Referral Code]
 comments: false
 ---
 

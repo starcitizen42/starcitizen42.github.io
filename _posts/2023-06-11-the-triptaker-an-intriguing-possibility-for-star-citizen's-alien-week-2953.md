@@ -2,7 +2,7 @@
 layout: post
 title: "The Triptaker: An Intriguing Possibility for Star Citizen's Alien Week 2953"
 description: "Speculation about potential new ship releases for Star Citizen's Alien Week 2953. A detailed look at the Banu Triptaker based on the recent 'A Gift from Baba Part 3' story."
-categories: [musings, speculation, alien week]
+categories: [musings]
 tags: [Star Citizen, Alien Week 2953, Banu Triptaker, speculation, ships]
 image: /assets/img/blogfluf/banu-concepts2.jpg
 canonical_url: https://starcitizen.today/2023/06/11/The-Triptaker-An-Intriguing-Possibility-for-Star-Citizen's-Alien-Week-2953.html
