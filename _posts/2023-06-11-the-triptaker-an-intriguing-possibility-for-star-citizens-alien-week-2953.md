@@ -13,7 +13,7 @@ twitter:card: "summary_large_image"
 
 ![4 Banu standing side by side in a concept art picture](/assets/img/blogfluf/banu-concepts2.jpg)
 
-As the Star Citizen community eagerly anticipates the upcoming Alien Week 2953, speculation is mounting about potential new ship releases. One ship that's been generating a buzz is the Banu Triptaker. Based on details gleaned from the recent ["A Gift from Baba Part 3"](https://robertsspaceindustries.com/comm-link/serialized-fiction/18353-A-Gift-For-Baba-Part-3) story, this ship could be a fascinating addition to the Star Citizen universe. Here's what we know so far and why it might be unveiled during the event.
+As the Star Citizen community eagerly anticipates the upcoming Alien Week 2953, speculation is mounting about potential new ship releases. One ship that's been generating a buzz is the Banu Triptaker. Based on details gleaned from the recent ["A Gift from Baba Part 3"](https://robertsspaceindustries.com/comm-link/serialized-fiction/18184-A-Gift-For-Baba-Part-3) story, this ship could be a fascinating addition to the Star Citizen universe. Here's what we know so far and why it might be unveiled during the event.
 
 ## The Triptaker: A Glimpse into Banu Craftsmanship
 
@@ -36,3 +36,19 @@ In the [Star Citizen Live: Invictus All-Vehicles Roundtable](https://www.youtube
 If the Triptaker were to be released, I would venture a guess that it might be priced around $350, or $300 if only concepted. While the 'alien tax' often inflates the price of alien ships, the Triptaker might be an exception. Most alien ships are also dedicated fighters, attracting both the alien tax and the dedicated fighter tax. However, the Triptaker, like the relatively affordable Railen, is not a dedicated fighter, which could make it a more budget-friendly option for an alien ship.
 
 As we approach Alien Week 2953, the Triptaker remains an exciting possibility. Only time will tell if this intriguing ship will make its debut during the event. Stay tuned for more
+
+---
+
+## Enjoyed the Article?
+
+If you found this article helpful and are considering joining the Star Citizen community, please consider using my referral code. By using the referral code, you will receive 5,000 UEC (the in-game currency) and I will receive some in-game benefits as well. It's a win-win!
+
+Here's the referral link: [https://robertsspaceindustries.com/enlist?referral=STAR-NC4W-QRHN](https://robertsspaceindustries.com/enlist?referral=STAR-NC4W-QRHN)
+
+And the referral code: ```STAR-NC4W-QRHN``` in case you want to copy and paste it manually.
+
+**Special Note:** Alien Week 2953 is expected to start on June 15th, 2023. If you create your account during this event, you may receive a free LTI (Life Time Insurance) ship in addition to the usual 5,000 UEC. LTI is a valuable feature that ensures your ship is always insured. I'll be posting an article soon explaining its importance (or perhaps lack thereof), so stay tuned!
+
+*(Please note that the additional LTI ship offer is only valid during Alien Week 2953. After the event, the referral bonus will revert to the standard 5,000 UEC.)*
+
+Thank you for your support and see you in the 'verse!
