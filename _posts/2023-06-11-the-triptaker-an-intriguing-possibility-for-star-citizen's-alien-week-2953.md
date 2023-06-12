@@ -17,15 +17,15 @@ As the Star Citizen community eagerly anticipates the upcoming Alien Week 2953, 
 
 ## The Triptaker: A Glimpse into Banu Craftsmanship
 
-The Triptaker, as described in the story, is a ship of approximately Constellation size, featuring a unique vertical-style docking port. This design choice creates an immersive climbing entrance experience into the main chamber, a departure from the conventional horizontal docking ports.
+The Triptaker, as described in the story, is a ship of approximately Constellation size, featuring a vertical-style docking port. This design choice creates an immersive climbing entrance experience into the main chamber, a departure from the conventional horizontal docking ports.
 
 Once inside, the Triptaker reveals its true grandeur. The main chamber is a testament to the intricate and detailed craftsmanship of the Banu. Bathed in warm lighting, the room showcases a patchwork of different materials and patterns along the curving, sweeping walls, culminating in a high pointed arch. The forward end of this chamber boasts a lavish table surrounded by thick cushions, creating an atmosphere of luxury and comfort. The chamber also houses a collection of small, rare items, hinting at the ship's potential for trade and display.
 
 ## Why the Triptaker Might Be Released Soon
 
-The recent release of detailed information about the Triptaker in the "A Gift from Baba Part 3" story suggests that the ship might be closer to release than we think. The Triptaker's medium size and the existing Banu assets from the Merchantman and Defender could potentially expedite its development, especially if the ship's design centers around a trading and display room.
+The recent release of information about the Triptaker in the "A Gift from Baba Part 3" story suggests that the ship might be closer to release than we think. The Triptaker's medium size and the existing Banu assets from the Merchantman and Defender could potentially expedite its development, especially if the ship's design centers around a trading and display room that use the majority of its space.
 
-In a recent live video, the developers hinted at the possibility of discussing the "Banu..." before being redirected to talk about the "Merchantman." This could be a subtle hint that another Banu ship is in the pipeline.
+In the [Star Citizen Live: Invictus All-Vehicles Roundtable](https://www.youtube.com/watch?v=LSM8kao5Q6k) , I just felt that they 
 
 With several unannounced ships in the works, the Triptaker could very well be one of them.
 
