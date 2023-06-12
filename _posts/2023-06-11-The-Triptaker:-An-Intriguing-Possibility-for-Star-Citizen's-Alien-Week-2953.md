@@ -2,6 +2,7 @@
 layout: post
 title: "The Triptaker: An Intriguing Possibility for Star Citizen's Alien Week 2953"
 published: true
+catagories: musings, speculation, alien week
 ---
 
 As the Star Citizen community eagerly anticipates the upcoming Alien Week 2953, speculation is mounting about potential new ship releases. One ship that's been generating a buzz is the Banu Triptaker. Based on details gleaned from the recent ["A Gift from Baba Part 3"](https://robertsspaceindustries.com/comm-link/serialized-fiction/18353-A-Gift-For-Baba-Part-3) story, this ship could be a fascinating addition to the Star Citizen universe. Here's what we know so far and why it might be unveiled during the event.
