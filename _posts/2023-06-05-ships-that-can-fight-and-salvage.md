@@ -40,7 +40,5 @@ So with out further blathering on my part.  Here is the list of ships that I thi
 
 **Catapillar** [<u>SC Tools</u>](https://starcitizen.tools/Caterpillar) [<u>ERKUL</u>](https://www.erkul.games/loadout/n5VNKuR7) - a ship seemingly designed for salvage enthusiasts seeking maximum efficiency. With not one, but two tractor beams, positioned strategically to access the numerous cargo sections on the hull, the Caterpillar excels in collecting salvage like no other. Its design optimizes the process of gathering valuable resources from the depths of space. Furthermore, the Caterpillar offers ample cargo space, allowing you to store an impressive amount of salvaged materials. To enhance the destructive part of salvaging operations, dedicating some cargo space for small fighters proves to be a wise choice, enabling effective defense and combat support. With its exceptional salvage capabilities and the ability to accommodate auxiliary fighters, the Caterpillar truly shines as the go-to ship for salvage operations. Embark on lucrative ventures, gather precious resources, and unleash the full potential of the Caterpillar as you navigate the depths of the Star Citizen universe.
 
-
-Please help me by reporting any errors [Here!](https://github.com/starcitizen42/starcitizen42.github.io/issues/new?title="issues with ships that can fight and salvage")
-
 ---
+
