@@ -9,6 +9,7 @@ canonical_url: https://starcitizen.today/musings/2023/06/11/the-triptaker-an-int
 author: "Kal"
 og:image: /assets/img/blogfluf/banu-concepts2.jpg
 twitter:card: "summary_large_image"
+keywords: Star Citizen, Alien Week 2953, Banu Triptaker, speculation, ships, Banu, Triptaker, A Gift from Baba Part 3, concept art, Star Citizen community, ship releases, trading, display room, Banu Merchantman, BMM, capital alien ship, manufacturer, ship lineup, capital ships, alien ships, alien tax, price, concept, development, design, trading, display, luxury, comfort, cargo area, prison area, indentured servants, trade goods, negotiation, strategy, advantage, squadron 42, Invictus All-Vehicles Roundtable, manufacturer, ship lineup, capital ships, alien ships, alien tax, price, concept, development, design, trading, display, luxury, comfort, cargo area, prison area, indentured servants, trade goods, negotiation, strategy, advantage, squadron 42, Invictus All-Vehicles Roundtable
 ---
 
 ![4 Banu standing side by side in a concept art picture](/assets/img/blogfluf/banu-concepts2.jpg)

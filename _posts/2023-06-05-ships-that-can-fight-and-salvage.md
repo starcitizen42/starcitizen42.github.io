@@ -9,6 +9,7 @@ canonical_url: https://starcitizen.today/musings/2023/06/05/ships-that-can-fight
 author: "Kal"
 og:image: "/assets/img/blogfluf/vulture-vulturing.jpg"
 twitter:card: "summary_large_image"
+keywords: "Star Citizen, Squadron 42, combat ships, salvage ships, Star Citizen guide, Star Citizen ships, Star Citizen combat, Star Citizen salvage, best Star Citizen ships, Star Citizen gameplay, Star Citizen tips, Star Citizen strategies, Star Citizen ship guide, Star Citizen ship comparison, Star Citizen ship features, Star Citizen ship capabilities, Star Citizen ship review, Star Citizen ship analysis, Star Citizen ship performance, Star Citizen ship roles, Star Citizen ship functions, Star Citizen ship utilities, Star Citizen ship strengths, Star Citizen ship weaknesses, Star Citizen ship loadouts, Star Citizen ship builds, Star Citizen ship configurations, C.O. Nomad, MISC Reliant Kore, 315P, Avenger Titan, Drake Cutlass series, Freelancer series, Constellation series, Spirit Series, Catapillar"
 ---
 
 ![A vulture doing crazy vulture stuff](/assets/img/blogfluf/vulture-vulturing.jpg)
