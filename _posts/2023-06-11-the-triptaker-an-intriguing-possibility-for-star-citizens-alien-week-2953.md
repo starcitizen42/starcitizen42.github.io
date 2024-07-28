@@ -39,16 +39,3 @@ As we approach Alien Week 2953, the Triptaker remains an exciting possibility. O
 
 ---
 
-## Enjoyed the Article?
-
-If you found this article helpful and are considering joining the Star Citizen community, please consider using my referral code. By using the referral code, you will receive 5,000 UEC (the in-game currency) and I will receive some in-game benefits as well. It's a win-win!
-
-Here's the referral link: [https://robertsspaceindustries.com/enlist?referral=STAR-NC4W-QRHN](https://robertsspaceindustries.com/enlist?referral=STAR-NC4W-QRHN)
-
-And the referral code: ```STAR-NC4W-QRHN``` in case you want to copy and paste it manually.
-
-**Special Note:** Alien Week 2953 is expected to start on June 15th, 2023. If you create your account during this event, you may receive a free LTI (Life Time Insurance) ship in addition to the usual 5,000 UEC. LTI is a valuable feature that ensures your ship is always insured. I'll be posting an article soon explaining its importance (or perhaps lack thereof), so stay tuned!
-
-*(Please note that the additional LTI ship offer is only valid during Alien Week 2953. After the event, the referral bonus will revert to the standard 5,000 UEC.)*
-
-Thank you for your support and see you in the 'verse!

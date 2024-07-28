@@ -30,6 +30,10 @@ layout: base
     {{ content }}
   </div>
 
+   <!-- Include the content of page.html -->
+   {% include fix_or_enjoyed.html %}
+  
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

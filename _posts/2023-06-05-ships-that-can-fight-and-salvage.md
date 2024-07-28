@@ -44,13 +44,3 @@ So with out further blathering on my part.  Here is the list of ships that I thi
 Please help me by reporting any errors [Here!](https://github.com/starcitizen42/starcitizen42.github.io/issues/new?title="issues with ships that can fight and salvage")
 
 ---
-
-## Enjoyed the Article?
-
-If you found this article helpful and are considering joining the Star Citizen community, please consider using my referral code. By using the referral code, you will receive 5,000 UEC (the in-game currency) and I will receive some in-game benefits as well. It's a win-win!
-
-Here's the referral link: [https://robertsspaceindustries.com/enlist?referral=STAR-NC4W-QRHN](https://robertsspaceindustries.com/enlist?referral=STAR-NC4W-QRHN)
-
-And the referral code: `STAR-NC4W-QRHN` in case you want to copy and paste it manually.
-
-Thank you for your support and see you in the 'verse!
