@@ -18,7 +18,7 @@ keywords: Star Citizen, Solo Showdown, ships, C1 Spirit, solo players, solo, C1 
 
 The C1 Spirit is a great choice for solo players in Star Citizen. It is a versatile ship that can be used for a variety of purposes, from cargo hauling to mining, bounty hunting to small salvage ops. With its sleek design and powerful engines, easy to use cargo area and loading ramp, the C1 Spirit is a force to be reckoned with in the verse.
 
-Here we can see a C1 with a ROC, a Cyclon, and 32 SCU of cargo space. Clearly it allows you to do cargo missions while also being prepared to do some mining or ground vehicle missions as well if the situation arises! 
+Here we can see a C1 with a ROC, a Cyclone, and 32 SCU of cargo space. Clearly it allows you to do cargo missions while also being prepared to do some mining or ground vehicle missions as well if the situation arises! 
 
 ![An image of the cargo section of a C1 Spirit, it is loaded with 32 scu of cargo, a ROC, and a Cyclone!](/assets/img/ships/spirit-c1/3.24-cargohold-shots/C1-loaded-roc-cyclone-32scu.jpg)
 
