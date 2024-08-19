@@ -23,7 +23,9 @@ My number one reason for trying to convince ya all it should win is that if it w
 ## Good things come to those who vote 'Terrapin'??
 
 /start conspiracy theory 
+
 Honestly a very small thought of mine is that they have been holding off on making the Terrapin gold standard as well as variations until it wins a top 4 or over all Ship Showdown event.  If the Terrapin wins, it should have spiked sales, and reaffirm in CIG's eyes and wallets that the Terrapin can be a money maker for them.  They may even have something ready to go soon after IAE if it wins, or at least a plan to get something on the roadmap related to it.  
+
 /end conspiracy theory.
 
 ## What makes it so great currently?
@@ -32,7 +34,7 @@ Here is a image of some cargo I placed in the back of the Terrapin.  It is a bit
 
 ![A image of the interior of the Terrapin, there is 2 2SCU crates as well as 1 1SCU crate with additional room.  The bed is blocked but it could be better sorted to still keep access.](/assets/img/ships/terrapin/shipshowdown2954/5SCU_cargo_terrapin_example.jpg)
 
-Try as I could I was unable to get a Nox to fit inside,  I have head others have done it!  But here is my results!  Terrapin 1 Nox 0.
+Try as I could I was unable to get a Nox to fit inside,  I have heard others have done it!  But here is my results!  Terrapin 1 Nox 0.
 
 ![My poor nox broken in to tiny bits! but not a scratch on the Terrapin cept maybe the ramp.](/assets/img/ships/terrapin/shipshowdown2954/tears_of_nox.jpg)
 
@@ -46,7 +48,7 @@ Next I will give a couple examples of what I, in my glorious insanity, think may
 
 Here you can see an amazing picture showcasing my photoshop skills!  As you can see I have a feeling that a Cargo variant of the Terrapin could very well hold 12SCU of cargo (the Red area)! Potentially 16SCU even.  On my image I show where the default component locations are in Blue. In Green I show my revised location for storing gear on the wall shared with the exit (the yellow rectangle) and lastly the restroom is marked in brown.
 
-![Amazing example of photoshop skills that display the interior of the Terrapin as if it had a cargo grid and slight rearrangement or internal layout](assets/img/ships/terrapin/shipshowdown2954/Anvil_Terrapin_Piece_04_Interior_cargo.jpg)
+![Amazing example of photoshop skills that display the interior of the Terrapin as if it had a cargo grid and slight rearrangement or internal layout](/assets/img/ships/terrapin/shipshowdown2954/Anvil_Terrapin_Piece_04_Interior_cargo.jpg)
 
 ### Terrapin Combat Ambulance Variant!
 
