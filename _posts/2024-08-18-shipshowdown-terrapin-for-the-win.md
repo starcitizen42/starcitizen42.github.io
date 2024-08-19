@@ -5,15 +5,14 @@ title: "2954 Ship Showdown: Terrapin for the win!"
 description: "The many reasons that the Terrapin is the best ship for 2954 Ship Showdown!"
 categories: [shipshowdown2954]
 tags: [Star Citizen, ship showdown, ship showdown 2954, ship showdown 2024, ships, Terrapin]
-image: /assets/img/ships/terrapin/Anvil_Terrapin_Piece_01_Hangar2.jpg
-canonical_url: https://starcitizen.today/showdown/2024/08/06/solo-showdown-a-look-at-the-ct-spirit.html
+image: /assets/img/ships/terrapin/shipshowdown2954/Anvil_Terrapin_Piece_01_Hangar2.jpg
+canonical_url: https://starcitizen.today/shipshowdown2954/2024/08/18/shipshowdown-terrapin-for-the-win.html
 author: "Kal"
-og:image: /assets/img/ships/terrapin/Anvil_Terrapin_Piece_01_Hangar2.jpg
+og:image: /assets/img/ships/terrapin/shipshowdown2954/Anvil_Terrapin_Piece_01_Hangar2.jpg
 twitter:card: "summary_large_image"
 keywords: Ship Showdown, Ship Showdown 2954, Ship Showdown 2024, Star Citizen, Terrapin, Review, overview, features, price, comparison, suggestions, recommendations, ship showdown winner, ship showdown 2954 winner, ship showdown 2024 winner, shipshowdown, shipshowdown 2954, shipshowdown 2024, shipshowdown winner, shipshowdown 2954 winner, shipshowdown 2024 winner, 2954 ship showdown, 2954 ship showdown winner, 2024 ship showdown, 2024 ship showdown winner, 2024 ship showdown Terrapin, 2024 ship showdown Terrapin winner
 ---
-![A terrapin enjoying a break, basking in the arclight of the port.  Surrounded by confused dock workers since it has no cargo space.](/assets/img/ships/terrapin/Anvil_Terrapin_Piece_01_Hangar2.jpg)
-
+![A terrapin enjoying a break, basking in the arclight of the port.  Surrounded by confused dock workers since it has no cargo space.](/assets/img/ships/terrapin/shipshowdown2954/Anvil_Terrapin_Piece_01_Hangar2.jpg)
 
 ## 2954 Ship Showdown: Terrapin for the win!
 
