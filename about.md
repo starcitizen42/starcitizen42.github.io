@@ -10,7 +10,7 @@ Welcome to our Star Citizen hub, a haven for space adventurers and gaming enthus
 
 ## Authors note, un-AI-edited.  
 
-I am using AI assistance to make my writing and coding better.  I am just using this to help me make a great site, not do all the work for me.  I use it to collect info, that I then cross check my self, and to help me put it in to words and formatting that is more appleaing ( at least to my eyes and brain LOL )  I grew up with dysgraphia and other issues and while I have always enjoyed reading, my output has always suffered.  So please dont critize me to harshly for using this crutch!
+I am using AI assistance to make my writing and coding better.  I am just using this to help me make a great site, not do all the work for me.  I use it to collect info, that I then cross check my self, and to help me put it in to words and formatting that is more appleaing ( at least to my eyes and brain LOL )  I grew up with dysgraphia and other issues and while I have always enjoyed reading, my output has always suffered. The AI usage in wording is minimal however.  The above paragraph being the most AI laden content so you can see how it differs from my own wording So please dont critize me to harshly for using this crutch!  This paragraph is all my wording.
 
 I hope you all enjoy it, and I will have a email address setup as soon as I have a long term plan for this sites existance.
 
